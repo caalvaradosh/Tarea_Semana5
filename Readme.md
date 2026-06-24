@@ -1,4 +1,4 @@
-# Sistema de Gestión de Restaurante
+# Sistema de Gestión de Restaurante el Bambú de Cotundo
 
 ## Estudiante
 
